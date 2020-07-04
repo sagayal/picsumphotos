@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  PicsumPreview
+
+  Created by Martin on 30/06/20.
+  Copyright © 2020 sls. All rights reserved.
+*/
+
+// Picsum View
+"View.Title" = "Picsum Preview";
+"RefreshControl.Label.text" = "Refreshing Image List";
+
+// Error Alert
+"ErrorAlert.Ok" = "Ok";
+"ErrorAlert.Title" = "Error Occured";
+"ErrorAlert.Message.UnknownAPIResponse" = "Server not responding please try again later";
+"ErrorAlert.Message.Generic" = "Something went wrong try again later";
+"ErrorAlert.Message.InvalidResponse" = "Invalid response please try again later";
+"ErrorAlert.Message.JsonSerialization" = "Invalid response please try again later";
+"ErrorAlert.Message.InvalidURL" = "Something went wrong try again later";
+"ErrorAlert.Message.NetworkNotReachable" = "Network is down try again later";
